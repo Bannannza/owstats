@@ -1,0 +1,1 @@
+{"error": "Private", "_request": {"api_ver": 3, "route": "/api/v3/u/BANNANN-21961/heroes"}}
