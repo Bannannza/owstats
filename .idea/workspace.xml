@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4829e9db-ab13-4862-a9bb-79c723914bf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/OWStats v1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/011a7b11070573a5142e6aaec67581d284288ab32123bd8f84008b3a8d405360.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0332696dcf1c1f4f1fdb897031faea81c4c339fc23ef310bd46628a85605eef5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0359fe5f3c816388e3b95536e64c4dbc0aaf75453919c4f7ef28de64a0d630de.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/06122e9848fdc9c64c13696a3d4f92cdc4a68f0af2b36f63e09ffe4847fca44a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/07af947a42d9c4fa3468ddd5dfbae7009e9bc12b352ef6716a9db5d9190b2340.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/08d66c748a99bc49830ccf89f062ae2778539bbdebce3594eb65105925b977f2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0f818ebdb78c191f8e3db445c00273068a3c259ee1fad9ca6c5addd11b1252eb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E000000000000A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000040.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000065.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000068.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E000000000006E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000079.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E000000000007A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E00000000000DD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E000000000012E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E000000000012F.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E000000000013B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E000000000013E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E00000000001A2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E00000000001CA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/0x02E0000000000200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/12.3d5bY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/16619ecee76e185d00c84a963f49c5cb4a5986091a03c4534bdb80bdc221c46c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/174c4fd4775f683d4efa5b094d3b36e2d6092d2c1d67129075991dcac21df537.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/17f6c3a2b088da88af35b4778dc763d906334117bafefa73b9dbe590759f9965.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/192a05d8f959ef0bb05203345f2ed4a809fe19e3eeddffe1da365d389caf2f3f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/1be32bb94b2bb8583770034095cf469c8199f9256bec0717ff96d90f4dc0c21a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/1da06b257cbba24c37cd20b0996183fadd7b223e9d86398ed3072d454d48d4aa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/21943340c3f6a19fda069295f65621ef13772da13458e1f5376c08ff606a4c76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/267ce03ee68b9c83aa6fbe0cc6f9edc63997bf4c88e56796197d9feb1e8adce0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/2a4dc9140f9af401bcacd0be44ef4e718005f589364472a29678340acfbb850e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/2c4669cb9834be7b5c246b4f556679f971ff4f2f51703e04b332d6d30a84e92c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/2e84c0d34d0bd9a04520d61c840d12e04fe41a19b15b59f05452e02075a7239a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/316a717051bd2dbd2f3bb6918d80b7075cdcbcac40d6a6243221d833ce3e1a28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/33ee9eda7497084066237734c51d709442ca76f46e02d238f63b42849e155c11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/34aa8998585c8fb614a25275460d5bb563530d7517170dda1dedc64dc9c4f5c7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/363287e6f404c8f86026dd41d3a4ff95ef759da7a2a19ee67927e0071a520c79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/39b1ae2d9564ca5aab506613aaf7922c2e6f1c8c54345785a634047af857fb2a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/3e428d96938516ecbf30a6cf91183b38e201493079f8d8d08c3b60d7436a5a46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/3ee33011889822af7cf565e7f8f339d3f6f21a31f0dcbe5e6eaaf588c4d85843.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/426545aa4a76955506c5b3a641acf96c7fa97c14cc5756061b17b6fe53f59ef9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/49d86e7d9a6cdae0596c9aafa613ab73d1d063bf8c23f507e1367764eecbfe31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/51138229a7318fad17fc4a99473bb12e9b319f917acf62dd561306f964895f98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/51be9b3061b27ee6503139e584b63bdfecd04d7faaa3c0f26d4552fc5502d558.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/52f39c43468d0d4f7718e6c63fabdae127899dbfdeb1b140bcdaae6cf98fb552.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/5339327bdcd2fef36d8f4b848067c9f5a7683df1ea35538449df5fec4d32826a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/53531d40d8ce21259832acf63ae3ffc8d8d2795bb46688631e7780b6e40c946e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/540631a4dce2082c627ebdf85403e1b9294946acaa72e55d6476159ff9fd582a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/546892b3d396f279abb58c27fcb195b4efb52821a5cfa358383c4918229b1be5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/5526f39599d0b96161b46d73c4fed6cb32345655c48e91d42d0e3c5989e07f78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/5585c9364497cc89efd1b0e5940516934a2e22bb880b2bef42338bcbdc6f6304.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/55a7246ac9940c15ed1ef0a47d7d5f53e6dba2681813e47d0b10e433a1e847a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/59ee8d76ffc1def29d8a17ab0d0ab56b6fc622750ba8a9444efe4f2f93bb3248.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/59fbba16219b5dae91a13ed9ff15519344edb36b3d814486d2a4b1fc57f13ccb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/5d84ee62fb0924ae8cf40f61dadf3b36da41428ad716236adf6939c0fd010f4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/5e79efedc61b1e128c990788894c089829315405ecafed3daafd06a38ff4d71f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/621968212e56bf99359b039e74a3d38577aaa936445edeaaf727306ec97e1355.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/62643e1c8faaab95e12dde99d88aafcc3db3abfb152665cd27a2571a91387ca1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/64a925034337346738cd7f1e0b18ed297bb8e9422ce0ff1f45c319715f72a5c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/66ec4db95d75771dc79f37a44563dcdcfede04389989d0d3a67b7c09e6d06e50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/67b0f37b65589964de50a8d5bbf8fe338ba09fd998e8cf5234a0786e0274dc84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/6ad0dd899a8d69346bc697b63fdad8345a3818ac9298a2da7a60d15e48ffd075.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/6ecb5045f0f7fcaf34e50193316c54164c70ab38a784ab5af43e081a401b6a8f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/7397a01a2270e80d2aba17bd0f1b989304663c15c843d5fb8503e6250a7b0ec8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/752d0a370208678e21f7801ffa303f69fd847eb4fa1fb17125216a17e29fec22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/758e4bb9b66f386234e5b72c137d1282738cb76bdadf4db49575d70beac18010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/772795f22437996e59d43780fdf6212b3f7939d4ad91f5e1fb3aff4be0003c58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/7908b4b7b46ef0367be783c0f6d5fdf45280e5a2754878a097f9b0288de989cf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/79dccfedd2e998f771b9aa8006eda7de3a9c4832e8354671d3474a7361dab401.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/7bc2feb549601cbcfdfe30bd577a370b636cd606ae303fdf6561a5382eeefcd4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/82b8d98629f87c47fb8285c6471877d738aab092660d35fdb6c663289cedebc1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/82c68b2155d124007b594f484aa4e42b47d0ba8060113205a0350ae596ee50d9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/8304241110.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/834ba804b18043670564c4916c5f39166cae3a1a34e08ad045621c2eb29fc499.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/862f5c1396da3dab91349269afb115d78ecf8f4a886be85e02e7e6d5ac2dafa9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/879cfecf908dca1e8e14ba4a8cd6144ec46936c665350d9b0f3049d41e46013c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/8877e50cb653f1720d7b7a0c1d3b3f1c5086b98aebf0a30ece1b16ae9c0d4666.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/88a02d7eee4bb0a1a65c58f19877f2ab5aacc4800ae573c3b2c2635f60586a45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/8c4bda8015be02a84ca95dd7aa142473bbc85ce37e8bfa52c270f143580c9928.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/8efbcbb5768e5d8ad108f3c6a7bfafe039d431cb3cf926fabbb844f4cf665bfd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/901542ad9718c4953159377bbdd5d880b55024e816d642c26566e38882934c2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/917ce30622aa4981b91ddb7bd65606b07de3c1015e91c4c5eb1435bc3d3557c0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/92229229d56f68d63f7a3cf462ee19716eb552009165f8f65ee011e3976a34f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/9422e704af58fca3aaa54532137723264d75a7278f2ca9466fd902b502dd29ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/960da905558597286e1f08250009f751262d88d91ad597d1f766f3ef9d4d9c94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/990ea03753dff7c6f812782618afe49ea4273af3705e60e587b94184a2998f48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/9a6793bcadbf993c49cecb43d395ffcf8b5dd87eb0fd023631faf6457c140fdc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/9ba3f529e0f394d26f3c2f219667072cba22010683842b315669ec2c2c5620c0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/9fec117b84b177bd128a963454ae7672a3e21c9c4fb19df5fe11760831e751c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/a31d0613949db501bb35f1434b19f4be3b181bcd4fdca0e62a7396c923630d06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/a326b202a821ab3e196d1faab6144460f470001b26a8b6f2ab96cb3af5f325b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/a8270235338.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/a93afd37433f9d50d6faf0bb72edfa670867a17b2830262625e35cad346c1238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/a9b98de08f9f999eb428c0f8f2ffb183c7ada2758b69c27f139b30b251f009c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/ac25f41267a5449c422352e86af06a5475007c24dd8d0458a6f067da26bb99e5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/acd6d6406c4a7a0b2732edb9bf8e22db5dc368ac682e2ce24aa86c0f4e129ed2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/ad725c3035dda577aa6032f257cd66adbf954be5e3f2d9e1be9a1ed3503d6d78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/ae95bae6a543078dc5eb59e992d2b91fa17139bd61a120401913296edd34c63d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/analytics.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/app-2777044d3290c96df823185c0f9c6df0af697e3f47df9fa2ad5c97dd05f1ef49f1ddb94b470087ee0f0028264675191ad809a8000963b5cd2c070e24c8bac857.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/app-89c15820047865febbe143012d9f7210f318a626c07beb90b29a0cb50c4c2f5475004c45114654d6778d9e2d127edb4302c6f028b3bb87b992a7d2b02b13a51b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/b1b49e8ad83fd21bb425519532a8b5fd2d2b2037368342549e7d0bb5407d9eb4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/b45cafa29efa8cf5c7911063acad013c13b4833547435660e91768a6801b83c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/b4e9aeb96cac8950f497e874a6e75a4b3a03e62dd1dd9836c471d6ff52a25a7b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/bbde1782bd9c1598edd918b910364582aa454a7da8643b9cbad0b21870a644df.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/bdf5603b751dda5e8e6700be98815a5f7c72fecd2ed6dcaa8c085f7514014a70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/bfc50286c4147bbefd0fcb536267a16fb4ee33b71315160519fb0e81e4da5800.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/blizzard-3454c68f23f7db5c3d9bcd82a2725dfee2db3a45aed095e51093350fc6564a517ca71b4d63fde4951c5ebcda6fe0731cc85c6c807b40ca72b2dc1e538094a749.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/blizzard-63d8f5f32e03c0983385904b92bb74a026bbb3913d17c4e3c2a62fd51d905e4e0524b1d9e6117696151448cae0485e7561d0f5b2e75b695008980695826eab8f.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/c22fe8bb77fd01655452ff8841c78c1de950d5c9266efad774517d0cb3c0261b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/c2bf0897ecefecaef954bfa0f58a4e29361f1ff07a82a2be52f1de66a2a714c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/c5c323f1888cdced6d36b57764ef5e566bd0bccb4f9e199331faf5c7f3f9a479.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/c5ed13a6e41e43b17781fd347315c1f300b089dded4af27c3fd2166c26a2545b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/c7b3c57d7dd91c200f558914f0dd16fb7d733278694f3f63b20d44cc583cb173.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-cod-bo-4-964bdaf14e2a62de.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-destiny-2-e23c02eb589ce843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-diablo-3-6218a0746762f065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-diablo-immortal-27ce8fcd012c5f03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-hearthstone-e9fe5d89ddb0ae23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-heroes-of-the-storm-fa2904645cfdd22d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-overwatch-7eff92e1257149aa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-starcraft-2-c4f45e7ba6425848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-starcraft-remastered-6b54d5feb865eab7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-warcraft-3-reforged-e4051122f0f4fa12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/card-world-of-warcraft-54576e6364584e35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/cb3bc4b6ecbdae9908805a9ce3dc0fe70b21e2c86af3d23f8a81af897fb04455.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/cf4a83f25a71556adb960c1d55d962b7f1be87148b09db3dcb4627a2b296ae4a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/d53e2bd7909ebb01fcd9c51874b75050a63693f7108d4944ae13b5b78abea4a9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/d76bfd3f0b6a7ecd5400dbabaacd4715eb4a50e5b456e2e152c64fc321534447.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/d915dd065cbd831bedb37906944dcca6d836fd2e04cfabbf505040a6c3f6a8dc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/db29e3375e474723bf738fc1d969bc3bd524dcc1a5a1a1b703d80dab014856a0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/de260d70de8d8dcd9a96291b0c2b1a7fd7564da95f20ed222cd5d87a743de7a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/df0ecca70bb1c27deaedc16182c2d0ebff3c24cbf5d42b36c2559c20cfd290fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/e1448ba4d54a3fd15df2346d2ad1e4501e1f293fdb47b62aa3166be2a6797851.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/e788b12d476e896dac3831bbc0842fb3b4d07a89b3c337959d9a6cd6ea5a7df5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/ebf937fbeb8241fdbc2ee47df6b7ea19e5d638aeada78c0a0a9c0cc26697e44a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/ec4db4350f97d599e8d10722ace6b902679f688feba66377f9ed306b41fa3018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/ed9f671718f31161ffcd5d97f868e67f3e9a4f0d5674fe9b0df30dfae87808ac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-heroes-8ad130cb8da3ddc4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-hs-400bcfdbdedb5a0f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-mobile-heroes-627af86b8cf84845.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-mobile-hs-081d66166189f75e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-mobile-overwatch-ce8dd5ae960a11f8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-mobile-overwatch-world-cup-579dde27bfbaf5e9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-mobile-sc2-61ec4378c6def7c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-mobile-wowwc-5bbc0092cf8df062.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-overwatch-36d8f7f486d363c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-overwatch-world-cup-43d00c39399a70b8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-sc2-32be849895ec4e7d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/esports-wowwc-79e9589cf9355f17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/f38358b9387891b1076280b1ff89067514e19a0904c4d74cf16f66b5af07da45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/f3b47aacef78a3a08c6a38de6f2a9e518c86f0bb9be7aba2804d374e4feac738.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/f468a6ba1675e868a66fcb1727c3f4c5b87289b222ea49c648a2a57fbe79fc9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/f5e73717ac598860557894a25d764adc86be9e8a39e19cba6680845d30545e8b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/f86fc1f0714bafe5b85e6b80e1070452aa212f1954c749a28083e7a9557b0ec9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/fa04481062fc6926a5eba2a89c116a1e49215f1412975fb9fefcdfb673b4bb77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/fa1e76951ed6ee367ae9a5178b069eae824de07ee193e07c819e7015466879d8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/fbd2e57ca0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/fde8d33e320f007a2810930bb335c7cf9b03ef39fdb5e757e7b42591912fce4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/fe0c0abd9f46dfe56010b17a523c413c62948767d5da437fbc65704e3e56a335.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/ff44c9374f8b1a34387c97671c1f426b4c278addaed19aebf2ea9d565e5bfddd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/gtm.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-codbo4-7794ee86f3e8be3e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-d3-ab08e4045fed09ee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-dest2-db71def7c167da44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-di-01f9ac836ec31eed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-heroes-78cae505b7a524fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-hs-93512467e87f82c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-codbo4-7304157c0c68de4b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-d3-d4ef1e9415a37fa4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-dest2-ed0ccb7928f63a64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-di-9298e222a1ff42e3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-heroes-9b18acd85698e3f5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-hs-8f578d9162ef6bef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-ow-f55e678d31c82327.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-sc2-9bcca3ce838c0ada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-scr-6ab1a55de1242f54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-w3r-cd7d6195e1b6ea02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-mobile-wow-e09169bb480f819c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-overwatch-text-white-4a658fbd30a1def78335ed712356c4669c48c649131e2eb2f60328e8b024f2768f3a4f897f8220fda71f116e5819c7460d3b7a3ca81409dbb6adcdf76145465f.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-ow-4be5755bc0a4cbaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-sc2-6e33583ba0547b6a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-scr-fef4f892c20f584c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-w3r-c8a76eea272dbd55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/logo-wow-3dd2cfe06df74407.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/newrelic-6cb71eeedd20a8c5ac48767a403cf09c03f89b7f58e725faab7c077390408b426058af49aae109918ea620f3e65dd7d8dfcf8879c0be3fe49ed5d3aa2f020844.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/nr-spa-1071.min.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/rank-PlatinumTier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/saved_resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/sync.ashx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/vendor-56d2bc8793fc880b284f59eec3ce5a003de0b0d081a9cd69096dc75edcaf2b186310d8918bbb89452ced6a5184f91b8897a5e7a9dfa45f7193299fb5466742f2.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/vendor-5b47b142adb9d155478496acd40d8193321b34d620246b47d82652d08a4855eabde9854ad00b57f19f45b7e544cd10342323bb616932f1f2d95255f31ebc3cd5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Career Overview - Overwatch_files/www-widgetapi.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OWStats_pars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heroes_avatars/ashe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_pages/BANNANN-21961profile — копия.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_pages/BANNANN-21961profile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/011a7b11070573a5142e6aaec67581d284288ab32123bd8f84008b3a8d405360.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0332696dcf1c1f4f1fdb897031faea81c4c339fc23ef310bd46628a85605eef5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0359fe5f3c816388e3b95536e64c4dbc0aaf75453919c4f7ef28de64a0d630de.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/06122e9848fdc9c64c13696a3d4f92cdc4a68f0af2b36f63e09ffe4847fca44a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/07af947a42d9c4fa3468ddd5dfbae7009e9bc12b352ef6716a9db5d9190b2340.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/08d66c748a99bc49830ccf89f062ae2778539bbdebce3594eb65105925b977f2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0f818ebdb78c191f8e3db445c00273068a3c259ee1fad9ca6c5addd11b1252eb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E000000000000A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000040.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000065.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000068.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E000000000006E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000079.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E000000000007A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E00000000000DD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E000000000012E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E000000000012F.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E000000000013B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E000000000013E.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E00000000001A2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E00000000001CA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/0x02E0000000000200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/12.3d5bY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/16619ecee76e185d00c84a963f49c5cb4a5986091a03c4534bdb80bdc221c46c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/174c4fd4775f683d4efa5b094d3b36e2d6092d2c1d67129075991dcac21df537.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/17f6c3a2b088da88af35b4778dc763d906334117bafefa73b9dbe590759f9965.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/192a05d8f959ef0bb05203345f2ed4a809fe19e3eeddffe1da365d389caf2f3f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/1be32bb94b2bb8583770034095cf469c8199f9256bec0717ff96d90f4dc0c21a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/1da06b257cbba24c37cd20b0996183fadd7b223e9d86398ed3072d454d48d4aa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/21943340c3f6a19fda069295f65621ef13772da13458e1f5376c08ff606a4c76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/267ce03ee68b9c83aa6fbe0cc6f9edc63997bf4c88e56796197d9feb1e8adce0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/2a4dc9140f9af401bcacd0be44ef4e718005f589364472a29678340acfbb850e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/2c4669cb9834be7b5c246b4f556679f971ff4f2f51703e04b332d6d30a84e92c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/2e84c0d34d0bd9a04520d61c840d12e04fe41a19b15b59f05452e02075a7239a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/316a717051bd2dbd2f3bb6918d80b7075cdcbcac40d6a6243221d833ce3e1a28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/33ee9eda7497084066237734c51d709442ca76f46e02d238f63b42849e155c11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/34aa8998585c8fb614a25275460d5bb563530d7517170dda1dedc64dc9c4f5c7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/363287e6f404c8f86026dd41d3a4ff95ef759da7a2a19ee67927e0071a520c79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/39b1ae2d9564ca5aab506613aaf7922c2e6f1c8c54345785a634047af857fb2a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/3e428d96938516ecbf30a6cf91183b38e201493079f8d8d08c3b60d7436a5a46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/3ee33011889822af7cf565e7f8f339d3f6f21a31f0dcbe5e6eaaf588c4d85843.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/426545aa4a76955506c5b3a641acf96c7fa97c14cc5756061b17b6fe53f59ef9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/49d86e7d9a6cdae0596c9aafa613ab73d1d063bf8c23f507e1367764eecbfe31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/51138229a7318fad17fc4a99473bb12e9b319f917acf62dd561306f964895f98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/51be9b3061b27ee6503139e584b63bdfecd04d7faaa3c0f26d4552fc5502d558.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/52f39c43468d0d4f7718e6c63fabdae127899dbfdeb1b140bcdaae6cf98fb552.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/5339327bdcd2fef36d8f4b848067c9f5a7683df1ea35538449df5fec4d32826a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/53531d40d8ce21259832acf63ae3ffc8d8d2795bb46688631e7780b6e40c946e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/540631a4dce2082c627ebdf85403e1b9294946acaa72e55d6476159ff9fd582a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/546892b3d396f279abb58c27fcb195b4efb52821a5cfa358383c4918229b1be5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/5526f39599d0b96161b46d73c4fed6cb32345655c48e91d42d0e3c5989e07f78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/5585c9364497cc89efd1b0e5940516934a2e22bb880b2bef42338bcbdc6f6304.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/55a7246ac9940c15ed1ef0a47d7d5f53e6dba2681813e47d0b10e433a1e847a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/59ee8d76ffc1def29d8a17ab0d0ab56b6fc622750ba8a9444efe4f2f93bb3248.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/59fbba16219b5dae91a13ed9ff15519344edb36b3d814486d2a4b1fc57f13ccb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/5d84ee62fb0924ae8cf40f61dadf3b36da41428ad716236adf6939c0fd010f4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/5e79efedc61b1e128c990788894c089829315405ecafed3daafd06a38ff4d71f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/621968212e56bf99359b039e74a3d38577aaa936445edeaaf727306ec97e1355.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/62643e1c8faaab95e12dde99d88aafcc3db3abfb152665cd27a2571a91387ca1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/64a925034337346738cd7f1e0b18ed297bb8e9422ce0ff1f45c319715f72a5c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/66ec4db95d75771dc79f37a44563dcdcfede04389989d0d3a67b7c09e6d06e50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/67b0f37b65589964de50a8d5bbf8fe338ba09fd998e8cf5234a0786e0274dc84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/6ad0dd899a8d69346bc697b63fdad8345a3818ac9298a2da7a60d15e48ffd075.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/6ecb5045f0f7fcaf34e50193316c54164c70ab38a784ab5af43e081a401b6a8f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/71a4a9637c12bbe942f3faac73d7a87260f7ca6e2db7729915240a6459745135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/7397a01a2270e80d2aba17bd0f1b989304663c15c843d5fb8503e6250a7b0ec8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/752d0a370208678e21f7801ffa303f69fd847eb4fa1fb17125216a17e29fec22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/758e4bb9b66f386234e5b72c137d1282738cb76bdadf4db49575d70beac18010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/772795f22437996e59d43780fdf6212b3f7939d4ad91f5e1fb3aff4be0003c58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/7908b4b7b46ef0367be783c0f6d5fdf45280e5a2754878a097f9b0288de989cf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/79dccfedd2e998f771b9aa8006eda7de3a9c4832e8354671d3474a7361dab401.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/7bc2feb549601cbcfdfe30bd577a370b636cd606ae303fdf6561a5382eeefcd4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/82b8d98629f87c47fb8285c6471877d738aab092660d35fdb6c663289cedebc1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/82c68b2155d124007b594f484aa4e42b47d0ba8060113205a0350ae596ee50d9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/8304241110.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/834ba804b18043670564c4916c5f39166cae3a1a34e08ad045621c2eb29fc499.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/862f5c1396da3dab91349269afb115d78ecf8f4a886be85e02e7e6d5ac2dafa9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/879cfecf908dca1e8e14ba4a8cd6144ec46936c665350d9b0f3049d41e46013c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/8877e50cb653f1720d7b7a0c1d3b3f1c5086b98aebf0a30ece1b16ae9c0d4666.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/88a02d7eee4bb0a1a65c58f19877f2ab5aacc4800ae573c3b2c2635f60586a45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/8c4bda8015be02a84ca95dd7aa142473bbc85ce37e8bfa52c270f143580c9928.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/8efbcbb5768e5d8ad108f3c6a7bfafe039d431cb3cf926fabbb844f4cf665bfd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/901542ad9718c4953159377bbdd5d880b55024e816d642c26566e38882934c2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/917ce30622aa4981b91ddb7bd65606b07de3c1015e91c4c5eb1435bc3d3557c0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/92229229d56f68d63f7a3cf462ee19716eb552009165f8f65ee011e3976a34f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/9422e704af58fca3aaa54532137723264d75a7278f2ca9466fd902b502dd29ba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/960da905558597286e1f08250009f751262d88d91ad597d1f766f3ef9d4d9c94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/990ea03753dff7c6f812782618afe49ea4273af3705e60e587b94184a2998f48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/9a6793bcadbf993c49cecb43d395ffcf8b5dd87eb0fd023631faf6457c140fdc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/9ba3f529e0f394d26f3c2f219667072cba22010683842b315669ec2c2c5620c0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/9fec117b84b177bd128a963454ae7672a3e21c9c4fb19df5fe11760831e751c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/a31d0613949db501bb35f1434b19f4be3b181bcd4fdca0e62a7396c923630d06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/a326b202a821ab3e196d1faab6144460f470001b26a8b6f2ab96cb3af5f325b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/a8270235338.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/a93afd37433f9d50d6faf0bb72edfa670867a17b2830262625e35cad346c1238.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/a9b98de08f9f999eb428c0f8f2ffb183c7ada2758b69c27f139b30b251f009c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/ac25f41267a5449c422352e86af06a5475007c24dd8d0458a6f067da26bb99e5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/acd6d6406c4a7a0b2732edb9bf8e22db5dc368ac682e2ce24aa86c0f4e129ed2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/ad725c3035dda577aa6032f257cd66adbf954be5e3f2d9e1be9a1ed3503d6d78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/ae95bae6a543078dc5eb59e992d2b91fa17139bd61a120401913296edd34c63d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/analytics.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/app-249e2feb3c175cde5058f187d322a6a99d8bafe09c4679dec9f219966789d8f842dd0a2115941b3e36f1ae678fb2dc5d772386845b08dd8eaf0cf0159e8fcc5f.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/app-d80d5778e02ae065294e46637752b5ac13fd880323b89cab204e86fb4d6c4c2d2613ee4f46deacc34ba8ede28d838a6bab89cce6f93368e3d7d62e6e94d88253.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/b1b49e8ad83fd21bb425519532a8b5fd2d2b2037368342549e7d0bb5407d9eb4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/b45cafa29efa8cf5c7911063acad013c13b4833547435660e91768a6801b83c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/b4e9aeb96cac8950f497e874a6e75a4b3a03e62dd1dd9836c471d6ff52a25a7b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/bbde1782bd9c1598edd918b910364582aa454a7da8643b9cbad0b21870a644df.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/bdf5603b751dda5e8e6700be98815a5f7c72fecd2ed6dcaa8c085f7514014a70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/bfc50286c4147bbefd0fcb536267a16fb4ee33b71315160519fb0e81e4da5800.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/blizzard-3454c68f23f7db5c3d9bcd82a2725dfee2db3a45aed095e51093350fc6564a517ca71b4d63fde4951c5ebcda6fe0731cc85c6c807b40ca72b2dc1e538094a749.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/blizzard-637b6a5e21bd40d5446a37840e7bc871431ef91aca24cab3b43f841cbefbe70ca34ca7bdf23f6e89f49d7dcff2631648a0e96dfe61bbf195784914861d2144b7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/c22fe8bb77fd01655452ff8841c78c1de950d5c9266efad774517d0cb3c0261b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/c2bf0897ecefecaef954bfa0f58a4e29361f1ff07a82a2be52f1de66a2a714c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/c5c323f1888cdced6d36b57764ef5e566bd0bccb4f9e199331faf5c7f3f9a479.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/c5ed13a6e41e43b17781fd347315c1f300b089dded4af27c3fd2166c26a2545b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/c7b3c57d7dd91c200f558914f0dd16fb7d733278694f3f63b20d44cc583cb173.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-cod-bo-4-964bdaf14e2a62de.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-destiny-2-e23c02eb589ce843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-diablo-3-6218a0746762f065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-diablo-immortal-27ce8fcd012c5f03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-hearthstone-e9fe5d89ddb0ae23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-heroes-of-the-storm-fa2904645cfdd22d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-overwatch-7eff92e1257149aa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-starcraft-2-c4f45e7ba6425848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-starcraft-remastered-6b54d5feb865eab7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-warcraft-3-reforged-e4051122f0f4fa12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/card-world-of-warcraft-54576e6364584e35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/cb3bc4b6ecbdae9908805a9ce3dc0fe70b21e2c86af3d23f8a81af897fb04455.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/cf4a83f25a71556adb960c1d55d962b7f1be87148b09db3dcb4627a2b296ae4a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/d53e2bd7909ebb01fcd9c51874b75050a63693f7108d4944ae13b5b78abea4a9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/d76bfd3f0b6a7ecd5400dbabaacd4715eb4a50e5b456e2e152c64fc321534447.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/d915dd065cbd831bedb37906944dcca6d836fd2e04cfabbf505040a6c3f6a8dc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/db29e3375e474723bf738fc1d969bc3bd524dcc1a5a1a1b703d80dab014856a0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/de260d70de8d8dcd9a96291b0c2b1a7fd7564da95f20ed222cd5d87a743de7a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/df0ecca70bb1c27deaedc16182c2d0ebff3c24cbf5d42b36c2559c20cfd290fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/e1448ba4d54a3fd15df2346d2ad1e4501e1f293fdb47b62aa3166be2a6797851.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/e788b12d476e896dac3831bbc0842fb3b4d07a89b3c337959d9a6cd6ea5a7df5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/ebf937fbeb8241fdbc2ee47df6b7ea19e5d638aeada78c0a0a9c0cc26697e44a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/ec4db4350f97d599e8d10722ace6b902679f688feba66377f9ed306b41fa3018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/ed9f671718f31161ffcd5d97f868e67f3e9a4f0d5674fe9b0df30dfae87808ac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-heroes-8ad130cb8da3ddc4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-hs-400bcfdbdedb5a0f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-mobile-heroes-627af86b8cf84845.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-mobile-hs-081d66166189f75e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-mobile-overwatch-ce8dd5ae960a11f8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-mobile-overwatch-world-cup-579dde27bfbaf5e9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-mobile-sc2-61ec4378c6def7c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-mobile-wowwc-5bbc0092cf8df062.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-overwatch-36d8f7f486d363c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-overwatch-world-cup-43d00c39399a70b8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-sc2-32be849895ec4e7d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/esports-wowwc-79e9589cf9355f17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/f38358b9387891b1076280b1ff89067514e19a0904c4d74cf16f66b5af07da45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/f3b47aacef78a3a08c6a38de6f2a9e518c86f0bb9be7aba2804d374e4feac738.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/f468a6ba1675e868a66fcb1727c3f4c5b87289b222ea49c648a2a57fbe79fc9d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/f5e73717ac598860557894a25d764adc86be9e8a39e19cba6680845d30545e8b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/f86fc1f0714bafe5b85e6b80e1070452aa212f1954c749a28083e7a9557b0ec9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/fa04481062fc6926a5eba2a89c116a1e49215f1412975fb9fefcdfb673b4bb77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/fa1e76951ed6ee367ae9a5178b069eae824de07ee193e07c819e7015466879d8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/fbd2e57ca0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/fde8d33e320f007a2810930bb335c7cf9b03ef39fdb5e757e7b42591912fce4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/fe0c0abd9f46dfe56010b17a523c413c62948767d5da437fbc65704e3e56a335.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/ff44c9374f8b1a34387c97671c1f426b4c278addaed19aebf2ea9d565e5bfddd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/gtm.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-codbo4-7794ee86f3e8be3e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-d3-ab08e4045fed09ee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-dest2-db71def7c167da44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-di-01f9ac836ec31eed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-heroes-78cae505b7a524fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-hs-93512467e87f82c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-codbo4-7304157c0c68de4b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-d3-d4ef1e9415a37fa4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-dest2-ed0ccb7928f63a64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-di-9298e222a1ff42e3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-heroes-9b18acd85698e3f5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-hs-8f578d9162ef6bef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-ow-f55e678d31c82327.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-sc2-9bcca3ce838c0ada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-scr-6ab1a55de1242f54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-w3r-cd7d6195e1b6ea02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-mobile-wow-e09169bb480f819c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-overwatch-sigil-white-a3d9ca4b2b57391b6bb8b69ebab1d1a5586f3753f015d7c4f6a8d51d53e4f409d9e39fa5e59b136fae1a480c153bcde962a14231ab81b8d13ccb5a631eb41f73.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-ow-4be5755bc0a4cbaf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-sc2-6e33583ba0547b6a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-scr-fef4f892c20f584c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-w3r-c8a76eea272dbd55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/logo-wow-3dd2cfe06df74407.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/newrelic-6cb71eeedd20a8c5ac48767a403cf09c03f89b7f58e725faab7c077390408b426058af49aae109918ea620f3e65dd7d8dfcf8879c0be3fe49ed5d3aa2f020844.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/nr-spa-1071.min.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/rank-PlatinumTier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/saved_resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/sync.ashx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/vendor-56d2bc8793fc880b284f59eec3ce5a003de0b0d081a9cd69096dc75edcaf2b186310d8918bbb89452ced6a5184f91b8897a5e7a9dfa45f7193299fb5466742f2.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/vendor-5b47b142adb9d155478496acd40d8193321b34d620246b47d82652d08a4855eabde9854ad00b57f19f45b7e544cd10342323bb616932f1f2d95255f31ebc3cd5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/vendor-a9a45aef0e8c83c5a043a3d26438a4747fd57c0cbe6bc129eb38d06fd73b443f7264ac299bce2577fd46f40e3021d554c263bfa20eda0b2cdd0fe6ab6e0439d0.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_files/www-widgetapi.js.Без названия" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_files/BANNANNZA-2257_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_files/Ultimatule-2318_rank.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OWStats.py" beforeDir="false" afterPath="$PROJECT_DIR$/OWStats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logoacc.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logoacc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/BANNANN-21961_heroes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/BANNANN-21961_heroes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/BANNANN-21961_previous_heroes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/BANNANN-21961_previous_heroes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/BANNANN-21961_previous_stats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/BANNANN-21961_previous_stats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/BANNANN-21961_stats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/BANNANN-21961_stats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/BANNANNZA-2257_heroes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/BANNANNZA-2257_heroes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/BANNANNZA-2257_previous_heroes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/BANNANNZA-2257_previous_heroes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/BANNANNZA-2257_previous_stats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/BANNANNZA-2257_previous_stats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/BANNANNZA-2257_stats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/BANNANNZA-2257_stats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/Ultimatule-2318_heroes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/Ultimatule-2318_heroes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/Ultimatule-2318_previous_heroes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/Ultimatule-2318_previous_heroes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/Ultimatule-2318_previous_stats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/Ultimatule-2318_previous_stats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/Ultimatule-2318_stats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/Ultimatule-2318_stats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_files/BANNANN-21961_rank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text_files/BANNANN-21961_rank.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_files/BANNANNZA-2257_rank.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text_files/BANNANNZA-2257_rank.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_files/last_updateBANNANN-21961.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text_files/last_updateBANNANN-21961.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_files/last_updateBANNANNZA-2257.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text_files/last_updateBANNANNZA-2257.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text_files/last_updateUltimatule-2318.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text_files/last_updateUltimatule-2318.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/заметки.txt" beforeDir="false" afterPath="$PROJECT_DIR$/заметки.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/OWStats_v1$OWStats.coverage" NAME="OWStats Coverage Results" MODIFIED="1550672125508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OWStats_v1$parser.coverage" NAME="parser Coverage Results" MODIFIED="1550670888144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1075959091">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="325" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="325" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/parser.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.OWStats">
+    <configuration name="OWStats" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OWStats v1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OWStats.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OWStats v1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.parser" />
+      <item itemvalue="Python.OWStats" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.OWStats" />
+        <item itemvalue="Python.parser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4829e9db-ab13-4862-a9bb-79c723914bf4" name="Default Changelist" comment="" />
+      <created>1550498748091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550498748091</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14362416" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OWStats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9121">
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

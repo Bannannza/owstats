@@ -134,7 +134,10 @@ class MyWin(QtWidgets.QMainWindow):
         time_played = int(self.accs_choose[item].get_matches_stats()['time_played'])
         games_won = int(self.accs_choose[item].get_matches_stats()['games_won'])
         games_lost = int(self.accs_choose[item].get_matches_stats()['games_lost'])
-        games_tied = int(self.accs_choose[item].get_matches_stats()['games_tied'])
+        try:
+            games_tied = int(self.accs_choose[item].get_matches_stats()['games_tied'])
+        except:
+            games_tied = 0
         total_matches_count = games_lost + games_won
         winrate = (games_won / total_matches_count) * 100
 

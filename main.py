@@ -180,7 +180,10 @@ class OWStats():
         match_stats = {'wins': 0, 'loses': 0, 'tied': 0}
         match_stats['wins'] = int(self.get_stats()['eu']['stats']['competitive']['game_stats']['games_won'] - self.get_previous_stats()['eu']['stats']['competitive']['game_stats']['games_won'])
         match_stats['loses'] = int(self.get_stats()['eu']['stats']['competitive']['game_stats']['games_lost'] - self.get_previous_stats()['eu']['stats']['competitive']['game_stats']['games_lost'])
-        match_stats['tied'] = int(self.get_stats()['eu']['stats']['competitive']['game_stats']['games_tied'] - self.get_previous_stats()['eu']['stats']['competitive']['game_stats']['games_tied'])
+        try:
+            match_stats['tied'] = int(self.get_stats()['eu']['stats']['competitive']['game_stats']['games_tied'] - self.get_previous_stats()['eu']['stats']['competitive']['game_stats']['games_tied'])
+        except:
+            match_stats['tied'] = 0
         return match_stats
 
 
