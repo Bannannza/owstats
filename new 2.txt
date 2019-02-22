@@ -1,0 +1,3 @@
+tables_with_stats = '<div class="column xs-12 md-6 xl-4"' + table.split('<div class="column xs-12 md-6 xl-4"', 1)[1]
+        tables_with_stats = tables_with_stats.split('</table></div></div>', 1)[0]
+        tables_with_stats_array = tables_with_stats.split('</tbody></table></div></div>')
